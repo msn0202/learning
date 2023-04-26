@@ -1,0 +1,55 @@
+.App1 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin-top: 110px;
+}
+.container{
+    width:1140px;
+    margin:0 auto;
+    column-count: 3;
+}
+.abc-one {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin-top: 60px;
+}
+
+.abc-two {
+  position: relative;
+  margin-top: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  width: 246px;
+  height: 20px;
+  border: 2px solid red;
+  border-radius: 4px;
+
+  color: white;
+}
+
+table {
+  background-color: blueviolet;
+}
+
+.cont {
+}
+
+.abc-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.related{
+    column-count: 3;
+}
