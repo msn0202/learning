@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App1.css";
+import "./App.css";
 
 function App() {
   const [arrData, setArrData] = useState([
